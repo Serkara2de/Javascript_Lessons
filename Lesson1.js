@@ -12,6 +12,3 @@ var firstName = "Adam";
 console.log(firstName);
 console.log(lastName);
 console.log(DofB);
-
-
-var ddddd
