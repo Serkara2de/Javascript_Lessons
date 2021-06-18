@@ -1,4 +1,4 @@
-// Adding behavior to the object
+// Adding behavior to the object and this keyword
 
 var car4 = {
     make: "Toyota",
